@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the sad losse of the truly honourable Robert Lord Brook an elegie, to his vertuous and noble lady.</title>
+            <author>Wallis, John, 1616-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97063</idno>
+            <idno type="STC">Wing W595A</idno>
+            <idno type="STC">Thomason E93_22</idno>
+            <idno type="STC">ESTC R11854</idno>
+            <idno type="EEBO-CITATION">50290040</idno>
+            <idno type="OCLC">ocm 50290040</idno>
+            <idno type="VID">155777</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155777)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E93[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the sad losse of the truly honourable Robert Lord Brook an elegie, to his vertuous and noble lady.</title>
+                  <author>Wallis, John, 1616-1703.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l :</pubPlace>
+                  <date>1643?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Preface signed: John Wallis.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brooke, Robert Greville, --  Baron, 1607-1643 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:155777:1"/>
+            <p>On the ſad Loſse of the truly Honourable <hi>ROBERT</hi> Lord <hi>BROOK:</hi>
+            </p>
+            <p>
+               <hi>An Elegie,</hi> To his Vertuous and Noble Lady.</p>
+            <div type="poem">
+               <opener>
+                  <salute>SWEET LADY,</salute>
+               </opener>
+               <lg>
+                  <l>
+                     <hi>Can your weeping Eye behold</hi>
+                  </l>
+                  <l>
+                     <hi>A paper, ſadly offer'd, where 'tis told,</hi>
+                  </l>
+                  <l>
+                     <hi>Your Lord is Dead? And ſo Vntimely too?</hi>
+                  </l>
+                  <l>
+                     <hi>Treble to You, to Vs a double Woe.</hi>
+                  </l>
+                  <l>
+                     <hi>'Tis Sad to Say; Sadder to you to Heare:</hi>
+                  </l>
+                  <l>
+                     <hi>Vnhappy he, muſt be the Meſſenger.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Yet ſince you Know ſo True, ſo Sad a Woe,</hi>
+                  </l>
+                  <l>
+                     <hi>Give leave to let you know, We know it too.</hi>
+                  </l>
+                  <l>
+                     <hi>we firſt your Loſſe, and then your Griefe bemone;</hi>
+                  </l>
+                  <l>
+                     <hi>(Some Eaſe, in Sadneſſe, not to weep Alone:)</hi>
+                  </l>
+                  <l>
+                     <hi>Our Tears (ambitious) make their ſad addreſſe;</hi>
+                  </l>
+                  <l>
+                     <hi>(we'd bear a part, that You might weep the leſſe.)</hi>
+                  </l>
+                  <l>
+                     <hi>Give leave, we pray, to joyne in Tears with You,</hi>
+                  </l>
+                  <l>
+                     <hi>(Yet weep we ſhall, whether with leave, or no:)</hi>
+                  </l>
+                  <l>
+                     <hi>And make this paper bleſt to kiſſe your hand,</hi>
+                  </l>
+                  <l>
+                     <hi>From him who's preſt,</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <salute>MADAME,</salute> 
+                  <signed>At Your Command, <hi>JOHN WALLIS.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:155777:2"/>
+            <head>AN ELEGIE On the much Lamented Death of the Right Honorable <hi>ROBERT</hi> Lord <hi>BROOK.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">M</seg>Ight I have ſeen what was deſir'd by all:</l>
+               <l>How glad would I, or not compoſe at all,</l>
+               <l>Or in another ſtile; and not reherſe</l>
+               <l>Heroïck Worth in Elegeïck Verſe.</l>
+               <l>Or elſe, might I, and they to whom as dear,</l>
+               <l>Weep him Alive that's Dead, though every teare</l>
+               <l>Were teares of Bloud, how willing would we poure</l>
+               <l>A farre more precious, then <hi>love's</hi> Golden, Shower</l>
+               <l>On this Sad Object, on this Bloudy ſight,</l>
+               <l>And with our teares or Guild, or waſh him White.</l>
+               <l>But Now (unhappy) cannot but complain,</l>
+               <l>With ſad bemoaning tears, (though tears in vain)</l>
+               <l>What's paſt recall, and we, though no redreſſe</l>
+               <l>Can be expected, muſt not hold our peace.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:155777:2"/>
+               <l>But how (alas!) ſhould I begin to ſpeak,</l>
+               <l>(Where all Hyperbole's will ſeem too weak</l>
+               <l>To equalize) in Meaſures to expreſſe</l>
+               <l>What knows no other meaſure but Exceſſe?</l>
+               <l>Or who can Bound over-abounding Tears,</l>
+               <l>Within the ſtreightneſſe of an even Verſe?</l>
+            </lg>
+            <lg>
+               <l>If then perhaps I hardly weep in Rhime;</l>
+               <l>If not in Conſort; (Tears can keep no Time)</l>
+               <l>If no melodious Harmony be ſhewn;</l>
+               <l>Think but, 'Tis Hard, to put a Teare in Tune.</l>
+               <l>(Yet harder, not to Weep.—) Imperfect Tones</l>
+               <l>Serve well enough to ſignifie our Grones.</l>
+               <l>A Long, a Large, are all the <hi>Notes</hi> we know;</l>
+               <l>(Minim and Sembrief <hi>Reſts</hi> are long enow)</l>
+               <l>Our Accents tuned to the Higheſt <hi>Key;</hi>
+               </l>
+               <l>(And yet our Sighs deeper then <hi>Gam-ut</hi> be:)</l>
+               <l>Nor curious are to make the <hi>Conſort</hi> ſweet,</l>
+               <l>That all keep equall <hi>Time,</hi> that <hi>Cloſes</hi> meet;</l>
+               <l>None tunes his Voyce unto anothers String;</l>
+               <l>(This Verſe was made to Weep, and not to Sing)</l>
+               <l>All weep a <hi>Part,</hi> but no <hi>Accord</hi> can keep,</l>
+               <l>(Save onely thus, That all agree to weep;)</l>
+               <l>Oft weep a <hi>Sharp,</hi> when our ſad Thoughts be <hi>Flat;</hi>
+               </l>
+               <l>If <hi>Diſcords</hi> oft appear, yet wonder not;</l>
+               <l>Some Harmony may Diſproportion give,</l>
+               <l>
+                  <hi>Diſcordant</hi> Accents ſhew <hi>Concent</hi> in Grief.</l>
+            </lg>
+            <lg>
+               <l>Then weep we muſt. That Heart is too too hard,</l>
+               <l>That in a publike Sadneſſe would be ſpar'd.</l>
+               <l>Publike, I ſay, yet more then Common, Grief;</l>
+               <l>(Elſe might a Common Cordiall yeeld relief,)</l>
+               <l>'Tis not a Lady mourns, not I, alone,</l>
+               <l>I am but Speaker of a Kingdoms mone:</l>
+               <pb facs="tcp:155777:3"/>
+               <l>A Kingdomes publike loſſe it is; all thoſe</l>
+               <l>Have loſt in Him, that had but ought to looſe.</l>
+               <l>Yea thoſe (as yet) that count his Loſſe a Gain,</l>
+               <l>Will (after) ſay, 'Twas pitty <hi>Brook</hi> was ſlain.</l>
+            </lg>
+            <lg>
+               <l>Such Meekneſſe lodg'd in a ſo Noble Breaſt;</l>
+               <l>Such Candour mixt with ſuch Heroickneſſe;</l>
+               <l>His Thoughts ſo Low joyn'd with Deſerts ſo High;</l>
+               <l>Practiſe of Truth as well as Theory;</l>
+               <l>Not quick (as ſome) to Bid and ſlow to Act,</l>
+               <l>Praiſing to others what themſelves detrect;</l>
+               <l>His thoughts the ſame with what he did pretend;</l>
+               <l>A Courſe direct as well as upright End;</l>
+               <l>An Active Vigour with Integrity,</l>
+               <l>Strait Aims purſu'd not with an Oblique Eye:</l>
+               <l>Should I or this or more dilate, yet leſſe</l>
+               <l>Is ſaid in Words, then what our Tears expreſſe.</l>
+            </lg>
+            <lg>
+               <l>How gladly would my pen perſiſt to tell,</l>
+               <l>How willing would my pleaſed Fancie dwell</l>
+               <l>On this ſo ſweet a ſubject, as to ſay</l>
+               <l>How Good he was, how well deſerving He;</l>
+               <l>His Learning, Wiſdome, Worth, and Piety,</l>
+               <l>Worthy how long to live, how late to dye;</l>
+               <l>To ſpeak his Praiſe, of his Deſerts to boaſt:</l>
+               <l>But that 'tis ſad to think, All this is loſt.</l>
+               <l>Counting His Worth, we count our Loſſes too;</l>
+               <l>That we Admire, This doth encreaſe our Woe.</l>
+               <l>All this, and more then this, is loſt in One,</l>
+               <l>All this is loſt when Noble <hi>Brook</hi> is gone.</l>
+            </lg>
+            <lg>
+               <l>Might ſad intreating Tears at any hand</l>
+               <l>Availe with Death, or who doth Death command,</l>
+               <l>To ſpare his Life; what flouds of theſe had been,</l>
+               <l>To purchaſe it, long ſince beſtow'd on him<g ref="char:punc">▪</g>
+               </l>
+               <pb facs="tcp:155777:3"/>
+               <l>For thoſe which now lament him caught away,</l>
+               <l>With more advantage might obtaine his ſtay.</l>
+               <l>Or might ſome Others death have Him excus'd,</l>
+               <l>There were, no doubt, who would not have refus'd</l>
+               <l>To reſcue him, and purchaſe by their Death,</l>
+               <l>That He (more worthy) might have longer breath.</l>
+               <l>But no entreaties can (though ne're ſo juſt)</l>
+               <l>Either Reprieve or Ranſome him: But muſt</l>
+               <l>Himſelfe, arreſted, (None by Proxy Dies)</l>
+               <l>Appeare in Perſon: Death accepts no price.</l>
+               <l>If naked Death alone, who can withſtand?</l>
+               <l>Much more appearing with an Armed hand.</l>
+            </lg>
+            <lg>
+               <l>But is there left us no return from death?</l>
+               <l>Doth not each breath we breathe breathe out our breath,</l>
+               <l>Which yet the next recalls? Not ſo in all:</l>
+               <l>This laſt exſpiring breath is paſt recall.</l>
+            </lg>
+            <lg>
+               <l>Which if a Single Loſſe, the loſſe were leſſe;</l>
+               <l>(Though Great) but when it forwards the ſucceſſe</l>
+               <l>Of our contrived woe; What ſhall we ſay?</l>
+               <l>May He be more bewail'd that's caught away,</l>
+               <l>Or we that ſtay behinde, reſerv'd to ſee</l>
+               <l>The ſadder ſequel of that Tragedy?</l>
+               <l>He ſhall not ſee (whatever we may doe)</l>
+               <l>A Glorious Kingdomes ſad approaching Woe.</l>
+               <l>He ſhall not ſee, not ſeeing ſhall bemone</l>
+               <l>An (once renowned) Land ſoone overthrown.</l>
+               <l>This ſhall not now perplex his reſting Eye,</l>
+               <l>Bleſt with a better ſight than Miſery.</l>
+            </lg>
+            <lg>
+               <l>But what remaineth Us we cannot ſee;</l>
+               <l>The ſafer he, the neerer danger wee:</l>
+               <l>And what approaching danger might deſcry,</l>
+               <l>In loſing his, the Kingdome loſt an Eye.</l>
+               <pb facs="tcp:155777:4"/>
+               <l>An Eye ſo deare, had we but known its price,</l>
+               <l>It had beene ranſom'd, though with both our Eyes.</l>
+               <l>How glad might we (a happy change 't had beene)</l>
+               <l>Weep out our owne, could we but weep his in.</l>
+               <l>But weep we may; yet Teares will nought availe:</l>
+               <l>Who grants no Quarter, will accept no Baile.</l>
+               <l>Nor can diſtinguiſh by our different teares,</l>
+               <l>'Twixt Poore and Noble; all in death are peeres.</l>
+            </lg>
+            <lg>
+               <l>Then why complaine? could we or leſſe expect,</l>
+               <l>Or think for Him Death would decline his tract?</l>
+               <l>Is't not determin'd, all muſt here agree?</l>
+               <l>Then ſure He muſt, as well as others, die.</l>
+            </lg>
+            <lg>
+               <l>'Tis true, he muſt: But muſt he die ſo ſoone?</l>
+               <l>Before his Strength, before his Work be done?</l>
+               <l>If ſo; muſt one ſo meane effect his end?</l>
+               <l>Shall <hi>Hector</hi> die not by <hi>Achilles</hi> hand?</l>
+               <l>If die he muſt; if ſo untimely too;</l>
+               <l>Is Noble Bloud ſpilt by we know not who?</l>
+            </lg>
+            <lg>
+               <l>Then weep we may; not that we think't unfit,</l>
+               <l>(Not envy Heaven to Him, or Him to it)</l>
+               <l>That he, of whom the Earth unworthy was,</l>
+               <l>Should be advanc't to a more Happy place:</l>
+               <l>But that we want his help, or to compoſe</l>
+               <l>Our ſad diſtracted times, or quell our foes.</l>
+               <l>When thoſe pull down that ought to underprop;</l>
+               <l>When Forraign ſtarvelings come to eat Us. up.</l>
+               <l>When Popiſh Armies (more then one) in ſight,</l>
+               <l>Do for the Proteſtant Religion fight,</l>
+               <l>(To take it from us;) when (a viperous brood)</l>
+               <l>Who ſometimes ſuckt our Breaſts, now ſuck our Bloud,</l>
+               <l>(Be it a poiſon'd draught;) and thus requite,</l>
+               <l>For what they have, and what expect they might.</l>
+               <pb facs="tcp:155777:4"/>
+               <l>Like her that once (be their ſucceſſe as bad)</l>
+               <l>A precious Hen (though undeſerved) had,</l>
+               <l>That laid a Golden Egge each day but once,</l>
+               <l>Willing (ſo greedy) to have all at once</l>
+               <l>By a compendious way, ſhe kild her Hen,</l>
+               <l>Thinking to finde thoſe precious Eggs within:</l>
+               <l>As was her Gain, let their Succeſſe be ſuch;</l>
+               <l>So diſappointed; not, prevaile ſo much.</l>
+            </lg>
+            <lg>
+               <l>The readieſt way, they thought, by which they might</l>
+               <l>Effect their Plot, was to put out our Sight:</l>
+               <l>A tender Eye muſt be the mark deſign'd:</l>
+               <l>'Twas (ſure) they meant to make Religion Blind.</l>
+               <l>No marvell then: They thought (as well they might)</l>
+               <l>The way to Darkneſſe was to quench the Light.</l>
+               <l>A Moat, perhaps, they might pretend to ſee,</l>
+               <l>Which only to remove, their care ſhould be;</l>
+               <l>And, firſt concluding, he might ſee amiſſe,</l>
+               <l>They only meant to work a cure by this.</l>
+               <l>But if a Beam they could as ſoone deſcry,</l>
+               <l>They might have ſeen, theirs was the Evill Eye:</l>
+               <l>(Which if't offend they may pluck out) not His,</l>
+               <l>Which ſaw aright, though ſaw what was amiſſe.</l>
+               <l>Truth is, indeed, they thought it ſaw too much,</l>
+               <l>And therefore pluckt it out, their rage was ſuch:</l>
+               <l>Loth to be ſeen they were, and could not brook,</l>
+               <l>Their deeds of darkneſſe he ſhould over-look:</l>
+               <l>But take his Eye from Him, and Him from Us,</l>
+               <l>Their ends the better to accompliſh thus.</l>
+            </lg>
+            <lg>
+               <l>But muſt we Die? And Unrevenged too?</l>
+               <l>By Such a Hand? Such miſcreants work our Woe?</l>
+               <l>Let me die firſt, and not ſurvive to ſee,</l>
+               <l>Before I die, ſad Englands obſequy.</l>
+               <pb facs="tcp:155777:5"/>
+               <l>'Tis Death to Think; 'tis Worſe then death to See;</l>
+               <l>To bear a Part, is the leaſt death of Three.</l>
+            </lg>
+            <lg>
+               <l>This to prevent, who ſaw too much before,</l>
+               <l>He clos'd his Eyes, willing to ſee no more.</l>
+               <l>Yet firſt bewail'd our woe with Tears of Bloud,</l>
+               <l>(A ſad prefage) 'twas the laſt thing he did.</l>
+            </lg>
+            <div type="anagram">
+               <head>Anagram.</head>
+               <list>
+                  <item>GREVILIUS.</item>
+                  <item>VERGILIUS.</item>
+               </list>
+               <l>And if <note n="*" place="bottom">Sic ſcribendum cont<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndit Politianus, cum aliis.</note> VERGILIUS, why not MARO too?</l>
+               <l>Our AMOR ſure he was, we <hi>Lov'd</hi> him ſo.</l>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
